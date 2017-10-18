@@ -1,7 +1,7 @@
 # Request Header Parser Microservice
 
 
-For [Free Code Camp](http://freecodecamp.com) - [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+For [Free Code Camp](http://freecodecamp.com) - Request Header Parser Microservice
 
 
 ### User Stories
@@ -18,6 +18,3 @@ For [Free Code Camp](http://freecodecamp.com) - [Request Header Parser Microserv
 "software":"Windows NT 10.0; WOW64"
 }
 ```
-
-### Live Site
-[https://agile-woodland-91697.herokuapp.com](https://agile-woodland-91697.herokuapp.com)
